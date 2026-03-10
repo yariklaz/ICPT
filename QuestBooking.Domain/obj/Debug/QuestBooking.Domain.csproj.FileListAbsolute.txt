@@ -1,0 +1,10 @@
+C:\Users\lazyr\source\repos\QuestBooking\QuestBooking.Domain\bin\Debug\QuestBooking.Domain.dll
+C:\Users\lazyr\source\repos\QuestBooking\QuestBooking.Domain\bin\Debug\QuestBooking.Domain.pdb
+C:\Users\lazyr\source\repos\QuestBooking\QuestBooking.Domain\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\lazyr\source\repos\QuestBooking\QuestBooking.Domain\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\lazyr\source\repos\QuestBooking\QuestBooking.Domain\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\lazyr\source\repos\QuestBooking\QuestBooking.Domain\obj\Debug\QuestBooking.Domain.csproj.AssemblyReference.cache
+C:\Users\lazyr\source\repos\QuestBooking\QuestBooking.Domain\obj\Debug\QuestBooking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lazyr\source\repos\QuestBooking\QuestBooking.Domain\obj\Debug\QuestBoo.3B7C043E.Up2Date
+C:\Users\lazyr\source\repos\QuestBooking\QuestBooking.Domain\obj\Debug\QuestBooking.Domain.dll
+C:\Users\lazyr\source\repos\QuestBooking\QuestBooking.Domain\obj\Debug\QuestBooking.Domain.pdb
